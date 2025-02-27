@@ -6,7 +6,7 @@ if w>2 and w%2==0:
 else:
   print("no")
 
-#way to long words prblm
+#Way to long words prblm
 
 no_of_words = int(input())
 for _ in range(no_of_words):
